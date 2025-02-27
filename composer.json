@@ -1,12 +1,12 @@
 {
-    "name": "hekmatinasser/verta",
+    "name": "peyman136/verta",
     "description": "This Package helps developers to work with Jalali Datetime class for Laravel Framework PHP",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Nasser Hekmati",
-            "email": "hekmati.nasser@gmail.com"
+            "name": "peyman seifi",
+            "email": "peyman136@gmail.com"
         }
     ],
     "keywords": [
@@ -19,8 +19,8 @@
     ],
     "require": {
         "php": "^8.0",
-        "illuminate/support": "^8.0|^9.0|^10.0|^11.0",
-        "illuminate/validation": "^8.0|^9.0|^10.0|^11.0",
+        "illuminate/support": "^8.0|^9.0|^10.0|^11.0|^12.0",
+        "illuminate/validation": "^8.0|^9.0|^10.0|^11.0|^12.0",
         "hekmatinasser/jalali": "^8.2.3"
     },
     "require-dev": {
